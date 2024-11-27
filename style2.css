@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 70%;
+    margin: 50px auto;
+    border: 1px solid rgba(0, 0, 0, 0.075);
+}
+
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-size: 2.5em;
+    margin-bottom: 50px;
+}
+
+.imagem{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.btn{
+    margin: 30px auto;
+    width: 15%;
+}
+button > a {
+    color: #ffff;
+}
+button{
+    height: 40px;
+    width: 200px;
+    border-radius: 9px;
+    background-color: #6650A3;
+}
+
+footer{
+    margin: 100px 0px 0px 0px;
+    height:30px;
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
